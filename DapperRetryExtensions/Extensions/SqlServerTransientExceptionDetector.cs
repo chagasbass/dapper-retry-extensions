@@ -1,5 +1,4 @@
-﻿using Microsoft.Data.SqlClient;
-using System.ComponentModel;
+﻿using System.ComponentModel;
 
 namespace DapperRetryExtensions.Extensions;
 
